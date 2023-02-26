@@ -2,7 +2,7 @@
 Este é um projeto carrocel de cartas do jogo clashroyale desenvolvido em um workshop da DevemDobro. 
  
 ##
-![](/images/tela-1.png)
+![](/img/tela-1.png)
 
 ## Ambiente de Desenvolvimento
 
