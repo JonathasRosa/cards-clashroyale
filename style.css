@@ -139,6 +139,7 @@ body{
     cursor: pointer;
 }
 footer {
+    text-decoration: none;
     text-align: center;
     color:white;
     margin: 20px;
