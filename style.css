@@ -5,9 +5,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-body{
+body {
     font-family: 'outfit', sans-serif;
-    background-image: url(../cards-clashroyale/imagens/fundo1.png);
+    background-imagem: url("cards-clashroyale/img/bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100vh;
@@ -138,9 +138,12 @@ body{
     border: 0;
     cursor: pointer;
 }
-footer {
-    text-decoration: none;
-    text-align: center;
+.footer {
     color:white;
+    text-align: center;
     margin: 20px;
+}
+a {
+    text-decoration: none;
+    color:white;
 }
